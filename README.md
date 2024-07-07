@@ -1,16 +1,29 @@
-## Hi there 👋
+# Laila Ebrahim - Python Web Developer
 
-<!--
-**Lailaebrahim/Lailaebrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hello! I'm Laila Ebrahim, a passionate Python web developer with a focus on creating efficient, scalable, and user-friendly web applications.
 
-Here are some ideas to get you started:
+## 🛠 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C, JavaScript, HTML, CSS
+- **Frameworks:** Flask, Django.
+- **Databases:** MySQl.
+- **ORM:** SQLAlchemy
+- **API:** RESTful
+- **Testing:** pytest, unittest
+- **Version Control:** Git, GitHub
+
+## 🎓 Education
+
+- **Bachelor of Mechatronics Engineering**
+  Mansoura University, 2025
+
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lailaebrahim&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+
+- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/laila-ebrahim-574890241)
+- Email: lailaebrahiem108@gmail.com
+
+⭐️ From [Lailaebrahim](https://github.com/Lailaebrahim)
