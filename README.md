@@ -17,9 +17,6 @@
 - **Bachelor of Mechatronics Engineering**
   Mansoura University, 2025
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Lailaebrahim&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 
