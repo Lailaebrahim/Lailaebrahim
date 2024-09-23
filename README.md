@@ -6,7 +6,7 @@
 
 - **Languages:** Python, C, JavaScript, HTML, CSS
 - **Frameworks:** Flask, Django.
-- **Databases:** MySQl.
+- **Databases:** MySQl, PostgreSQL.
 - **ORM:** SQLAlchemy
 - **API:** RESTful
 - **Testing:** pytest, unittest
